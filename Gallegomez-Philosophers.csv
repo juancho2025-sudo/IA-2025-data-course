@@ -1,11 +1,1 @@
-Philosopher;Age ;MMSE;MoCA;Hippocampus Volume (cmü);Years Since Diagnosis;Physical Activity Level (1?5);BMI;Memory Loss (%)
-Immanuel Kant;74;18;16;5.2;5;2;22;40
-Friedrich Nietzsche;44;5;4;3.2;11;1;20;80
-Martin Heidegger;87;26;25;6.8;0;3;24;10
-Gottfried W. Leibniz;68;22;20;6.0;2;2;25;25
-Arthur Schopenhauer;71;24;26;7.2;0;4;23;0
-Henri Bergson;80;25;23;6.4;0;1;21;0
-Ludwig Wittgenstein;60;23;24;6.8;0;3;22;0
-Jean-Jacques Rousseau;63;20;18;5.6;3;3;23;0
-John Locke;70;22;21;6.0;3;2;24;0
-Thomas Hobbes;89;25;24;6.4;0;3;24;0
+Philosopher,Age,MMSE,MoCA,Hippocampus Volume ,Years Since Diagnosis,Physical Activity Level,BMI,Memory Loss,Immanuel Kant,74,18,16,5.2,5,2,22,40,Friedrich Nietzsche,44,5,4,3.2,11,1,20,80,Martin Heidegger,87,26,25,6.8,0,3,24,10,Gottfried W. Leibniz,68,22,20,6.0,2,2,25,25,Arthur Schopenhauer,71,24,26,7.2,0,4,23,0,Henri Bergson,80,25,23,6.4,0,1,21,0,Ludwig Wittgenstein,60,23,24,6.8,0,3,22,0,Jean-Jacques Rousseau,63,20,18,5.6,3,3,23,0,John Locke,70,22,21,6.0,3,2,24,0,Thomas Hobbes,89,25,24,6.4,0,3,24,0
